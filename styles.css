@@ -38,10 +38,11 @@ header {
     padding: 20px;
 }
 
+/* image styles */
 header img {
     max-width: 100%;
     height: auto;
-    border-radius: 50%; /* Make the image round */
+    border-radius: 50%; 
 }
 
 /* Section styles */
@@ -74,4 +75,9 @@ footer {
     header img {
         width: 70%;
     }
+}
+
+h2 {
+    font-weight: bold;
+    text-decoration: underline;
 }
